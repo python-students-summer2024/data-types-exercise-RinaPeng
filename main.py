@@ -11,6 +11,10 @@ def main():
     # calculate_quotient_and_remainder()
     # calculate_miles_per_gallon()
     # align_text()
+    calculate_quotient_and_remainder()
+    calculate_miles_per_gallon()
+    align_text()
+    
 
 
 main()
